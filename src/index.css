@@ -1,0 +1,36 @@
+body {
+  font-family: 'Georama', sans-serif !important;
+  color: #EFEFF1 !important;
+  background-color: #212529 !important;
+}
+
+button {
+  border-radius: 0 !important;
+  width: 140px;
+  font-size: 15px !important;
+  pointer-events: none;
+}
+
+.fs-18 {
+  font-size: 18px;
+}
+
+.fs-25 {
+  font-size: 25px;
+}
+
+.mt-12rem {
+  margin-top: 12rem !important;
+}
+
+.c-31fdd2 {
+  color: #31FDD2 !important;
+}
+
+.c-31fdd2:hover {
+  color: #2ea187 !important;
+}
+
+.c-efeff1 {
+  color: #EFEFF1
+}
